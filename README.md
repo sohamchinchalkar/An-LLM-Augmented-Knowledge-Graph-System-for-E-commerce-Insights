@@ -1,7 +1,7 @@
 # An-LLM-Augmented-Knowledge-Graph-System-for-E-commerce-Insights
 
 # Project Description:
-Dataset 1: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+Dataset 1: https://www.kaggle.com/datasets/mdsazzatsardar/amazonsalesreport
 
 Dataset 2: Pulseun.csv
 
