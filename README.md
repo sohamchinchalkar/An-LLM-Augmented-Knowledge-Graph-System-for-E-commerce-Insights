@@ -1,6 +1,7 @@
 # An-LLM-Augmented-Knowledge-Graph-System-for-E-commerce-Insights
 
-Project Description:
+# Project Description:
+
 Developed an advanced Retrieval-Augmented Generation (RAG) system that integrates a knowledge graph to enhance natural language querying and insight generation in the e-commerce domain.
 
 Utilized the Amazon Sales Dataset from Kaggle, comprising over 1,000 structured records detailing product information, ratings, and reviews, to construct the foundational elements of the knowledge graph.
