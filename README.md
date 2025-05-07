@@ -2,6 +2,7 @@
 
 # Project Description:
 Dataset 1: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+
 Dataset 2: Pulseun.csv
 
 Developed an advanced Retrieval-Augmented Generation (RAG) system that integrates a knowledge graph to enhance natural language querying and insight generation in the e-commerce domain.
