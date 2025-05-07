@@ -1,0 +1,2 @@
+# An-LLM-Augmented-Knowledge-Graph-System-for-E-commerce-Insights
+GraphRAG integrates structured Amazon sales data and unstructured customer chat logs to build a dynamic knowledge graph using Neo4j. Leveraging Google Gemini LLM, it extracts entities, infers relationships, and enables natural language querying via Cypher. This system provides actionable e-commerce insights through graph-based reasoning.
