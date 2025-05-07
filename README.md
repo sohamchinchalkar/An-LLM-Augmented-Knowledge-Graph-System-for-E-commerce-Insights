@@ -4,9 +4,9 @@
 
 Developed an advanced Retrieval-Augmented Generation (RAG) system that integrates a knowledge graph to enhance natural language querying and insight generation in the e-commerce domain.
 
-Utilized the Amazon Sales Dataset from Kaggle, comprising over 1,000 structured records detailing product information, ratings, and reviews, to construct the foundational elements of the knowledge graph.
+Utilized the Amazon Sales Dataset from Kaggle, comprising over 100,000 structured records detailing product information, ratings, and reviews, to construct the foundational elements of the knowledge graph.
 
-Incorporated unstructured customer chat logs, totaling approximately 5,000 entries, to enrich the knowledge graph with real-world conversational data, capturing nuanced customer sentiments and inquiries.
+Incorporated unstructured customer chat logs, totaling approximately 50,000 entries, to enrich the knowledge graph with real-world conversational data, capturing nuanced customer sentiments and inquiries.
 
 Engineered a pipeline leveraging a Large Language Model (LLM) to extract entities and relationships from both structured and unstructured data sources, facilitating the dynamic construction of a comprehensive knowledge graph using Neo4j.
 
